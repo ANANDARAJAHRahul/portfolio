@@ -29,7 +29,7 @@ No formal publications yet. The following lab reports reflect my hands-on work i
 
 | Report | Description |
 |--------|-------------|
-| [SL_Lab1](./Statistical Learning for biological data/SL_Lab1.pdf) | *Principal Component Analysis applied to morphological crab data and genetic SNP datasets, including correction for size effects and interpretation of latent biological structure.* |
+| [SL_Lab1](./Statistical_Learning/SL_Lab1.pdf) | *Principal Component Analysis applied to morphological crab data and genetic SNP datasets, including correction for size effects and interpretation of latent biological structure.* |
 | [SL_Lab2](./Statistical_Learning/SL_Lab2.pdf) | *Unsupervised learning (K-means, PCA) applied to gut microbiome data to reproduce known human enterotypes, illustrating clustering in high-dimensional biological data.* |
 | [SL_Lab3](./Statistical_Learning/SL_Lab3.pdf) | *Supervised learning using variable selection and penalized regression (Ridge, LASSO) to predict prostate-specific antigen levels from clinical data.* |
 
