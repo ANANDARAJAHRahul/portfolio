@@ -88,7 +88,7 @@ These methods are directly transferable to **biomedical signal analysis and clin
 
 ## 4. References
 
-Available upon request.
+Certificates and transcripts available upon request.
 
 | Name | Affiliation | Email |
 |------|-------------|-------|
